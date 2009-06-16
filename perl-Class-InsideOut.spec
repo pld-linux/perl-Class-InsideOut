@@ -8,12 +8,12 @@
 Summary:	Class::InsideOut - a safe, simple inside-out object construction kit
 Summary(pl.UTF-8):	Class::InsideOut - bezpieczne, proste tworzenie obiektów inside-out
 Name:		perl-Class-InsideOut
-Version:	1.08
+Version:	1.09
 Release:	1
 License:	Apache
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Class/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	74939b510a64a2a8e1f6fe207cbbaeb3
+# Source0-md5:	c80763c84d663986ae60251e6d2e8072
 URL:		http://search.cpan.org/dist/Class-InsideOut/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
