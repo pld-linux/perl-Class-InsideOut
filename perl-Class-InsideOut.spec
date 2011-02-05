@@ -25,7 +25,7 @@ This is a simple, safe and streamlined toolkit for building inside-out
 objects. Unlike most other inside-out object building modules already
 on CPAN, this module aims for minimalism and robustness.
 
-%description -l pl
+%description -l pl.UTF-8
 Ten pakiet zawiera narzędzia do prostego i bezpiecznego tworzenia
 obiektów inside-out. W przeciwieństwie do innych modułów tworzących
 obiekty inside-out, wcześniej występujących w archiwum CPAN, ten moduł
